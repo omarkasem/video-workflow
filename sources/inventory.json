@@ -1,0 +1,44 @@
+[
+  {
+    "original_archive_path": "DeemaΓÇÖs Hummy Yummy Tummy.mp3",
+    "path": "sources/song.mp3",
+    "bytes": 3081691,
+    "sha256": "cd0a50dc548b774e269ee7c5bca225e29300a78f63e71be450e3a66a394ca9c8"
+  },
+  {
+    "original_archive_path": "lyrics.txt",
+    "path": "sources/lyrics.txt",
+    "bytes": 1398,
+    "sha256": "85a343f703df462bb504354658eb6bb0818acb5412be614b9f395e4ec757459f"
+  },
+  {
+    "original_archive_path": "deemas_hummy_yummy_tummy_captions.srt",
+    "path": "sources/lyrics_original.srt",
+    "bytes": 2408,
+    "sha256": "1dc4e1a99a4807a0765645aa13d0e94935f2082558a21ce281781882d75ba1cf"
+  },
+  {
+    "original_archive_path": "Adam-Charachter.png",
+    "path": "sources/characters/Adam.png",
+    "bytes": 1973764,
+    "sha256": "19dfbcb3716c2d75e7dd312e026c8ffc4e549affc6084a1faa6316563b505bb2"
+  },
+  {
+    "original_archive_path": "Deema-Charachter.png",
+    "path": "sources/characters/Deema.png",
+    "bytes": 2069568,
+    "sha256": "5c7782e8cf304c3498429b76555618cd7d546ca99f920745cf61619ae01c8191"
+  },
+  {
+    "original_archive_path": "plans/storyboard.md",
+    "path": "sources/legacy/storyboard.md",
+    "bytes": 16666,
+    "sha256": "51f469fc13bdf3fc49aead78b3046912c90eb210056793d4e7799e3e5dd575ee"
+  },
+  {
+    "original_archive_path": "plans/kids_music_video_storyboard_master_prompt.md",
+    "path": "sources/legacy/master_prompt.md",
+    "bytes": 8579,
+    "sha256": "fbd1f09f4fe22823c1b9a963dc44ba82e001b5bcfdd9fa3628a8db3480883b23"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "stage": "awaiting_workflow_approval",
+  "production_enabled": false,
+  "timing_approved": false,
+  "visual_world_approved": false,
+  "boards_approved": false,
+  "animatic_approved": false,
+  "hq_frames_approved": false,
+  "generation_budget_approved": false,
+  "capcut_pilot_passed": false,
+  "export_approved": false,
+  "publishing_authorized": false,
+  "approved_shot_versions": {},
+  "provider_access_verified": {},
+  "completed_assets": [],
+  "pending_jobs": [],
+  "spent_by_provider": {},
+  "last_completed_task": "Source inspection and instructional starter kit only",
+  "next_task": "Confirm proposed workflow, verify lyric timing, and develop one rough storyboard sheet for format approval."
+}

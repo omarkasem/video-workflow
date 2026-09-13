@@ -1,0 +1,112 @@
+{
+  "schema_version": "0.1",
+  "project_id": "deemas_hummy_yummy_tummy",
+  "song_title": "Deema's Hummy Yummy Tummy",
+  "audio_path": "sources/song.mp3",
+  "audio_duration_seconds_metadata": 127.8,
+  "lyrics_path": "sources/lyrics.txt",
+  "draft_captions_path": "project/lyrics_DRAFT_normalized.srt",
+  "audio_alignment_verified": false,
+  "character_references": {
+    "Adam": "sources/characters/Adam.png",
+    "Deema": "sources/characters/Deema.png"
+  },
+  "proposal_not_yet_approved": {
+    "aspect_ratio": "16:9",
+    "export_width": 1920,
+    "export_height": 1080,
+    "edit_fps": 30,
+    "rough_preview_width": 1280,
+    "rough_preview_height": 720,
+    "board_sheet_count": 8,
+    "panels_per_sheet_min": 4,
+    "panels_per_sheet_max": 6,
+    "initial_unique_video_target_min": 6,
+    "initial_unique_video_target_max": 8,
+    "setting": "One warm kitchen and dining space",
+    "lead": "Deema",
+    "support": "Adam",
+    "mummy_visibility": "Off-camera unless the user approves an additional character design"
+  },
+  "budget": {
+    "currency_or_credit_unit": null,
+    "total_approved": null,
+    "reserve_fraction_proposed": 0.25,
+    "max_attempts_per_shot_proposed": 2,
+    "provider_budgets": {}
+  },
+  "board_chapters_draft": [
+    {
+      "id": "B01",
+      "start_seconds": 0,
+      "end_seconds": 15.638,
+      "title": "Meet Deema; the tummy mystery",
+      "visual_idea": "Opening kitchen view; curious tummy gesture; little drum motif.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B02",
+      "start_seconds": 15.638,
+      "end_seconds": 32.952,
+      "title": "A polite request and the signature chorus",
+      "visual_idea": "Food wishes; please gesture; signature tummy dance; anticipation.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B03",
+      "start_seconds": 32.952,
+      "end_seconds": 46.037,
+      "title": "Adam joins the fun",
+      "visual_idea": "Chorus callback; Adam appears; clap and tap; table reveal.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B04",
+      "start_seconds": 46.037,
+      "end_seconds": 58.165,
+      "title": "The food parade",
+      "visual_idea": "Fruit insert; carrot lyric; cheese/toast/rice/peas; an excited choice.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B05",
+      "start_seconds": 58.165,
+      "end_seconds": 76.436,
+      "title": "Build the yummy plate",
+      "visual_idea": "Reuse signature motif; new food arrangements; growing excitement.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B06",
+      "start_seconds": 76.436,
+      "end_seconds": 93.75,
+      "title": "Clap, mix, and share",
+      "visual_idea": "Duet callback; simple stirring; finished plate; sharing payoff.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B07",
+      "start_seconds": 93.75,
+      "end_seconds": 109.787,
+      "title": "A happy tummy and a thank-you",
+      "visual_idea": "Hungry-to-happy contrast; healthy plate; gratitude; chorus callback.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    },
+    {
+      "id": "B08",
+      "start_seconds": 109.787,
+      "end_seconds": 127.8,
+      "title": "No more rumbling; goodbye",
+      "visual_idea": "Happy tummy; final clap; count to three; outro hero pose and musical tail.",
+      "timing_basis": "Supplied unverified caption starts; editorial grouping only.",
+      "status": "proposed"
+    }
+  ]
+}

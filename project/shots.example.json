@@ -1,0 +1,65 @@
+{
+  "IMPORTANT": "Schema example only. This is NOT the approved episode timeline and does NOT cover the song.",
+  "timebase": {
+    "fps": 30,
+    "intervals": "start_frame inclusive; end_frame exclusive"
+  },
+  "shots": [
+    {
+      "id": "S001",
+      "version": 1,
+      "sheet_id": "B01",
+      "start_frame": 0,
+      "end_frame": 81,
+      "lyric_cue_ids": [],
+      "description": "Instrumental opening: Deema notices the kitchen table.",
+      "mode": "STILL",
+      "approved_board_version": null,
+      "approved_board_crop_path": null,
+      "reference_paths": [
+        "sources/characters/Deema.png"
+      ],
+      "still_asset_path": null,
+      "editorial_motion": {
+        "type": "gentle_push",
+        "scale_start": 1.0,
+        "scale_end": 1.05
+      },
+      "generation": null,
+      "status": "example_only"
+    },
+    {
+      "id": "S008_EXAMPLE",
+      "version": 1,
+      "sheet_id": "B02",
+      "start_frame": null,
+      "end_frame": null,
+      "lyric_cue_ids": [],
+      "description": "Deema performs one gentle side-to-side tummy dance.",
+      "mode": "VIDEO",
+      "approved_board_version": null,
+      "approved_board_crop_path": null,
+      "reference_paths": [
+        "sources/characters/Deema.png"
+      ],
+      "start_frame_path": null,
+      "end_frame_path": null,
+      "requires_end_frame": false,
+      "generation": {
+        "provider": null,
+        "model": null,
+        "route": null,
+        "duration_seconds": null,
+        "resolution": null,
+        "audio_setting": null,
+        "quoted_cost": null,
+        "job_id": null,
+        "attempts": 0
+      },
+      "reuse_asset_id": null,
+      "source_in_frame": null,
+      "source_out_frame": null,
+      "status": "example_only"
+    }
+  ]
+}

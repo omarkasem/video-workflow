@@ -1,0 +1,201 @@
+{
+  "audio_alignment_verified": false,
+  "method": "Preserve supplied starts; trim an overlapping end to the next supplied start. No listening-based correction.",
+  "changes": [
+    {
+      "cue": 1,
+      "original_end_ms": 6144,
+      "draft_end_ms": 5824
+    },
+    {
+      "cue": 2,
+      "original_end_ms": 9973,
+      "draft_end_ms": 9654
+    },
+    {
+      "cue": 3,
+      "original_end_ms": 12846,
+      "draft_end_ms": 12606
+    },
+    {
+      "cue": 4,
+      "original_end_ms": 16037,
+      "draft_end_ms": 15638
+    },
+    {
+      "cue": 5,
+      "original_end_ms": 18910,
+      "draft_end_ms": 18670
+    },
+    {
+      "cue": 6,
+      "original_end_ms": 22101,
+      "draft_end_ms": 21782
+    },
+    {
+      "cue": 7,
+      "original_end_ms": 25133,
+      "draft_end_ms": 24814
+    },
+    {
+      "cue": 8,
+      "original_end_ms": 28165,
+      "draft_end_ms": 27846
+    },
+    {
+      "cue": 9,
+      "original_end_ms": 31037,
+      "draft_end_ms": 30798
+    },
+    {
+      "cue": 10,
+      "original_end_ms": 33112,
+      "draft_end_ms": 32952
+    },
+    {
+      "cue": 11,
+      "original_end_ms": 34947,
+      "draft_end_ms": 34548
+    },
+    {
+      "cue": 12,
+      "original_end_ms": 40372,
+      "draft_end_ms": 39973
+    },
+    {
+      "cue": 13,
+      "original_end_ms": 43085,
+      "draft_end_ms": 43005
+    },
+    {
+      "cue": 14,
+      "original_end_ms": 46277,
+      "draft_end_ms": 46037
+    },
+    {
+      "cue": 15,
+      "original_end_ms": 49229,
+      "draft_end_ms": 49069
+    },
+    {
+      "cue": 16,
+      "original_end_ms": 52500,
+      "draft_end_ms": 52101
+    },
+    {
+      "cue": 17,
+      "original_end_ms": 55851,
+      "draft_end_ms": 55133
+    },
+    {
+      "cue": 18,
+      "original_end_ms": 58564,
+      "draft_end_ms": 58165
+    },
+    {
+      "cue": 19,
+      "original_end_ms": 61596,
+      "draft_end_ms": 61197
+    },
+    {
+      "cue": 20,
+      "original_end_ms": 64388,
+      "draft_end_ms": 64309
+    },
+    {
+      "cue": 21,
+      "original_end_ms": 66622,
+      "draft_end_ms": 66543
+    },
+    {
+      "cue": 22,
+      "original_end_ms": 70771,
+      "draft_end_ms": 70372
+    },
+    {
+      "cue": 23,
+      "original_end_ms": 73803,
+      "draft_end_ms": 73404
+    },
+    {
+      "cue": 24,
+      "original_end_ms": 76835,
+      "draft_end_ms": 76436
+    },
+    {
+      "cue": 25,
+      "original_end_ms": 79707,
+      "draft_end_ms": 79468
+    },
+    {
+      "cue": 26,
+      "original_end_ms": 82819,
+      "draft_end_ms": 82500
+    },
+    {
+      "cue": 27,
+      "original_end_ms": 85931,
+      "draft_end_ms": 85532
+    },
+    {
+      "cue": 28,
+      "original_end_ms": 88803,
+      "draft_end_ms": 88564
+    },
+    {
+      "cue": 29,
+      "original_end_ms": 91915,
+      "draft_end_ms": 91596
+    },
+    {
+      "cue": 30,
+      "original_end_ms": 93910,
+      "draft_end_ms": 93750
+    },
+    {
+      "cue": 31,
+      "original_end_ms": 95665,
+      "draft_end_ms": 95266
+    },
+    {
+      "cue": 32,
+      "original_end_ms": 101489,
+      "draft_end_ms": 100771
+    },
+    {
+      "cue": 33,
+      "original_end_ms": 104122,
+      "draft_end_ms": 103803
+    },
+    {
+      "cue": 34,
+      "original_end_ms": 107154,
+      "draft_end_ms": 106835
+    },
+    {
+      "cue": 35,
+      "original_end_ms": 110027,
+      "draft_end_ms": 109787
+    },
+    {
+      "cue": 36,
+      "original_end_ms": 113298,
+      "draft_end_ms": 112899
+    },
+    {
+      "cue": 37,
+      "original_end_ms": 116011,
+      "draft_end_ms": 115931
+    },
+    {
+      "cue": 38,
+      "original_end_ms": 119282,
+      "draft_end_ms": 118963
+    },
+    {
+      "cue": 39,
+      "original_end_ms": 122633,
+      "draft_end_ms": 121995
+    }
+  ]
+}
